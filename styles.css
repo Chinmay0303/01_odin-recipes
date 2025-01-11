@@ -36,3 +36,7 @@ ul .external{
 .h,.link{
     font-style: italic;
 }
+
+.h{
+    font-style: normal;
+}
