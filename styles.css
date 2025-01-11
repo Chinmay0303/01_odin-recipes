@@ -10,6 +10,10 @@
     border:3px solid red;
 }
 
+.three{
+    text-align: left;
+}
+
 .link{
     background-color:chocolate;
     font-size: 22px;
