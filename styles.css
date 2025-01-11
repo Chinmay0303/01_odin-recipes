@@ -3,6 +3,11 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.h{
+    color:darkslategray;
+    text-align: center;
+}
+
 .link{
     background-color:chocolate;
     font-size: 22px;
