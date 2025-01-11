@@ -20,6 +20,10 @@
     font-weight: 100;
 }
 
+.recipe.list{
+    list-style: circle inside;
+}
+
 .list{
     list-style-type:square;
 }
