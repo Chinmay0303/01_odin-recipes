@@ -44,6 +44,7 @@ ul .external{
 
 .list{
     list-style-type:square;
+    list-style-position: inside;
     margin:8px;
 }
 
