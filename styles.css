@@ -42,7 +42,7 @@ ul .external{
 }
 
 .recipe li{
-    display: inline;
+    display: inline-block;
 }
 
 .recipe.list{
