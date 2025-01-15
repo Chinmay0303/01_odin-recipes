@@ -38,6 +38,10 @@ ul .external{
     font-size: 16px;
 }
 
+.recipe li{
+    display: inline;
+}
+
 .recipe.list{
     list-style: circle inside;
 }
